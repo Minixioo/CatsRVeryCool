@@ -1,0 +1,105 @@
+body {
+  background: #e9dfdf;
+}
+
+.title {
+  text-align: center;
+  font-family: sans-serif;
+  color: #777979
+}
+
+.EP {
+  margin-left: 3em;
+  margin-top: 1em;
+}
+
+.AWEE {
+  transform: rotate(7deg);
+  margin-left: 10em;
+  margin-top: -12em;
+}
+
+.AL {
+  margin-left:21.5em;
+  margin-top: 2em;
+}
+
+
+.PUMA {
+  margin-top: -2em;
+  margin-left: 20em;
+  transform: rotate(5deg);
+}
+
+
+.TC {
+  margin-left: 37em;
+  margin-top: -3em;
+
+}
+
+.GL {
+  margin-left:58.5em;
+  margin-top: -26em;
+
+}
+
+.sussy {
+  margin-top: -20em;
+  margin-left: 40em;
+  transform: rotate(3deg);
+}
+
+.SCARY {
+  margin-top: -15em;
+  margin-left: 50em;
+  transform: rotate(-25deg);
+}
+
+
+.Balls {
+  margin-left:48.5em;
+  margin-top: 15em;
+
+}
+
+.mmm {
+  margin-top: -3em;
+  margin-left: 60em;
+  transform: rotate(3deg);
+}
+
+.NCS {
+  margin-top: -20em;
+  margin-left: 32em;
+}
+
+.fluffy {
+margin-left: 30em;
+margin-top: -11.5em;
+  transform: rotate(15deg)
+}
+
+.RP{
+  margin-left: 12em;
+  margin-top: -4em;
+}
+
+.Yellow {
+  margin-left: 10em;
+  margin-top: -28em;
+  transform: rotate(-25deg)
+}
+
+.Horny {
+  border-style: double;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: grabbing;
+  margin-top: 10em;
+}
